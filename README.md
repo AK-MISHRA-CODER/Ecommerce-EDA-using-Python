@@ -1,9 +1,9 @@
 # Ecommerce_EDA
 ## Context of Data 
-*Company - UK-based and registered non-store online retail 
-*Products for selling - Mainly all-occasion gifts 
-*Customers - Most are wholesalers (local or international) 
-*Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year) 
+* Company - UK-based and registered non-store online retail 
+* Products for selling - Mainly all-occasion gifts 
+* Customers - Most are wholesalers (local or international) 
+* Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year) 
 ## Problem Statements: 
 ### 1. Perform Basic EDA 
 a. Boxplot – All Numeric Variables 
