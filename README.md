@@ -6,18 +6,18 @@
 * Transactions Period - 1st Dec 2010 - 9th Dec 2011 (One year) 
 ## Problem Statements: 
 ### 1. Perform Basic EDA 
-a. Boxplot – All Numeric Variables 
-b. Histogram – All Numeric Variables 
-c. Distribution Plot – All Numeric Variables 
-d. Aggregation for all numerical Columns 
-e. Unique Values across all columns 
-f. Duplicate values across all columns 
-g. Correlation – Heatmap - All Numeric Variables 
-h. Regression Plot - All Numeric Variables 
-i. Bar Plot – Every Categorical Variable vs every Numerical Variable 
-j. Pair plot - All Numeric Variables 
-k. Line chart to show the trend of data - All Numeric/Date Variables 
-l. Plot the skewness - All Numeric Variables 
+* a. Boxplot – All Numeric Variables 
+* b. Histogram – All Numeric Variables 
+* c. Distribution Plot – All Numeric Variables 
+* d. Aggregation for all numerical Columns 
+* e. Unique Values across all columns 
+* f. Duplicate values across all columns 
+* g. Correlation – Heatmap - All Numeric Variables 
+* h. Regression Plot - All Numeric Variables 
+* i. Bar Plot – Every Categorical Variable vs every Numerical Variable 
+* j. Pair plot - All Numeric Variables 
+* k. Line chart to show the trend of data - All Numeric/Date Variables 
+* l. Plot the skewness - All Numeric Variables 
 ### 2. Check for missing values in all columns and replace them with the appropriate metric 
 (Mean/Median/Mode) 
 ### 3. Remove duplicate rows 
